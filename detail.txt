@@ -1,0 +1,21 @@
+https://www.kotaso.com/management/
+admin
+7Dxa%Mb3P
+
+
+SFTP Host: sftp://173.212.216.234
+
+Port No: 22
+
+SFTP user: ktsmanager
+
+SFTP password: @kts!17+1=234#
+
+
+http://kotaso.com/phpmyadmin/
+
+ MYSQL: 
+
+U:root
+
+P:@Kotaso/root+123
